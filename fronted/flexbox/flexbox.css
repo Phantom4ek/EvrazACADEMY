@@ -1,0 +1,19 @@
+.parent{
+    width: 500px;
+    display: flex;
+    margin-left: -8px;
+}
+
+.block{
+    background-color: mediumspringgreen;
+    padding: 10px 50px;
+    margin-right: 10px;
+}
+
+/*.block:first-child{*/
+/*    margin-bottom: 20px;*/
+/*}*/
+/*.block:last-child{*/
+/*    background-color: black;*/
+/*    margin-top: 10px;*/
+/*}*/
